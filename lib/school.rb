@@ -20,6 +20,6 @@ class School
     @roster.each do |grade, name|
       sorted[grade] = name
     end
-    sorted
+    sorted.sort
   end
 end
