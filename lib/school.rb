@@ -21,4 +21,5 @@ class School
       sorted[grade] = name
     end
     sorted
+  end
 end
