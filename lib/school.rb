@@ -1,4 +1,5 @@
 class School
-  def roster
+  def initialize(name)
+    ROSTER = []
   end
 end
